@@ -3,6 +3,8 @@
 
 ### Changed
 - `faraday_middleware` version is specified to be `>= 1.0.0`
+- `rubocop` version is specified to be `~> 1.8.1`
+- `performance` version is specified to be `~> 1.7.0`
 
 ### Deprecated
 
